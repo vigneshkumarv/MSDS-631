@@ -1,5 +1,5 @@
 ## Purpose: Using Vectors and Objects
-## Vignesh Kumar Venkateshwar
+## Author: Vignesh Kumar Venkateshwar
 
 ## Create an integer variable e holding the value 42! Check the object class of e with class()!
 e <- 42L
